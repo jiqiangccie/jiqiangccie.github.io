@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 保持泵感</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on 保持泵感</description>
+    <title>hugo使用方法 on 保持泵感</title>
+    <link>http://example.org/tags/hugo%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
+    <description>Recent content in hugo使用方法 on 保持泵感</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 26 Nov 2020 11:08:04 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/hugo%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -2,22 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>保持泵感</title>
-    <link>https://jiqiangccie.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on 保持泵感</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 26 Nov 2020 11:08:04 +0800</lastBuildDate>
     
-	<atom:link href="https://jiqiangccie.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Blog</title>
-      <link>https://jiqiangccie.github.io/post/my-first-blog/</link>
+      <title>hugo使用命令</title>
+      <link>http://example.org/post/hugo%E7%94%A8%E6%B3%95/</link>
       <pubDate>Thu, 26 Nov 2020 11:08:04 +0800</pubDate>
       
-      <guid>https://jiqiangccie.github.io/post/my-first-blog/</guid>
-      <description></description>
+      <guid>http://example.org/post/hugo%E7%94%A8%E6%B3%95/</guid>
+      <description>1. Hugo是什么？ Hugo是静态网站生成器，使用go语言编写，与同类产品Hexo相比，具有简单、易用，高效，易扩展、快速部署等特点。
+2. 下载hugo brew install hugo 3. 使用Hugo 3.1 创建博客主目录 hugo new site blog 3.2 下载主题 cd 主目录 git clone https://github.com/flysnow-org/maupassant-hugo themes/maupassant 3.3 生成博客文章 hugo new post/my-first-blog.md 3.4 查看预览 hugo server -D 在主目录下的config.toml文件修改
+theme = &amp;#34;maupassant&amp;#34; 4. 编写文章 这些内容会被hugo 解析，作为当前文章的一些属性，常用的属性如下：
+--- title: &amp;quot;文章标题&amp;quot;	# 文章标题 author: &amp;quot;作者&amp;quot;	# 文章作者 description : &amp;quot;描述信息&amp;quot;	# 文章描述信息 date: 2015-09-28	# 文章编写日期 lastmod: 2015-04-06	# 文章修改日期 tags = [	# 文章所属标签 &amp;quot;文章标签1&amp;quot;, &amp;quot;文章标签2&amp;quot; ] categories = [	# 文章所属标签 &amp;quot;文章分类1&amp;quot;, &amp;quot;文章分类2&amp;quot;, ] keywords = [	# 文章关键词 &amp;quot;Hugo&amp;quot;, &amp;quot;static&amp;quot;, &amp;quot;generator&amp;quot;, ] next: /tutorials/github-pages-blog	# 下一篇博客地址 prev: /tutorials/automated-deployments	# 上一篇博客地址 --- 4.</description>
     </item>
     
   </channel>
